@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="tabarray">
+        <item>Attractions</item>
+        <item>Hotels</item>
+        <item>Eatries</item>
+        <item>Hospital</item>
+    </array>
+</resources>

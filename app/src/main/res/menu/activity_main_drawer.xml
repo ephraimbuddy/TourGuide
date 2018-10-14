@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/attractions"
+            android:title="@string/title_at" />
+        <item
+            android:id="@+id/hotels"
+
+            android:title="@string/title_hl" />
+        <item
+            android:id="@+id/eatries"
+            android:title="@string/title_eat" />
+        <item
+            android:id="@+id/hospitals"
+            android:title="@string/title_hos" />
+    </group>
+
+</menu>

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Asaba Tour Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="card_image">Card Image</string>
+    <string name="more_info">View info</string>
+    <string name="title_hl">Hotels</string>
+    <string name="title_at">Attractions</string>
+    <string name="title_eat">Eatries</string>
+    <string name="title_hos">Hospitals</string>
+    <string name="address">addresss</string>
+    <string name="name">name</string>
+    <string name="image">image</string>
+    <!-- Attractions -->
+    <string name="stadium">Sk Stadium</string>
+    <string name="filmhouse">Filmhouse Cinema</string>
+    <string name="bridge">River Niger Bridge</string>
+    <string name="government">Government House</string>
+    <string name="airport">Asaba Airport</string>
+    <string name="shoprite">Shoprite Asaba Mall</string>
+    <string name="assembly">House of Assembly Complex</string>
+    <!-- Hotels -->
+    <string name="cyson_hotel">Cyson Hotel</string>
+    <string name="grand_hotel">Grand Hotel</string>
+    <string name="western_plus_hotel">Western Plus Hotel</string>
+    <string name="zanzibar_hotel">Zanzibar Hotel</string>
+    <string name="little_paradise_hotel">Little paradise Hotel</string>
+    <string name="lone_palm_hotel">Lone Palm Hotel</string>
+    <string name="white_label_hotel">White Label Hotel</string>
+    <string name="golden_pie_hotel">Golden Pie Hotel</string>
+    <string name="aziza_hotel">Aziza Hotel</string>
+    <!-- Locations -->
+    <string name="omor">Omor</string>
+    <string name="bonsaac">Bonsaac</string>
+    <string name="mbabi">Mbabi</string>
+    <string name="destoni">Destoni</string>
+    <string name="francis_street">Francis Street</string>
+    <string name="achuzi_street">Achuzi Street</string>
+    <string name="ebeano">Ebeano</string>
+    <string name="itolu">Itolu</string>
+    <string name="mbairi">Mbairi</string>
+    <!-- Hospitals -->
+    <string name="cyson_hospital">Cyson Hospital</string>
+    <string name="grand_hospital">Grand Hospital</string>
+    <string name="western_plus_hospital">Western Plus Hospital</string>
+    <string name="zanzibar_hospital">Zanzibar Hospital</string>
+    <string name="little_paradise_hospital">Little paradise Hospital</string>
+    <string name="lone_palm_hospital">Lone Palm Hospital</string>
+    <string name="white_label_hospital">White Label Hospital</string>
+    <string name="golden_pie_hospital">Golden Pie Hospital</string>
+    <string name="aziza_hospital">Aziza Hospital</string>
+
+    <!-- Restaurants -->
+    <string name="cyson_res">Cyson Restaurant</string>
+    <string name="grand_res">Grand Restaurant</string>
+    <string name="western_res">Western Plus Restaurant</string>
+    <string name="zanzibar_res">Zanzibar Restaurant</string>
+    <string name="little_paradise_res">Little paradise Restaurant</string>
+    <string name="lone_palm_res">Lone Palm Restaurant</string>
+    <string name="white_label_res">White Label Restaurant</string>
+    <string name="golden_pie_res">Golden Pie Restaurant</string>
+    <string name="aziza_res">Aziza Restaurant</string>
+
+    <!-- Navigation tab -->
+    <string name="attractions">Attractions</string>
+    <string name="hotels">Hotels</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="eatry">Eatries</string>
+
+
+</resources>
